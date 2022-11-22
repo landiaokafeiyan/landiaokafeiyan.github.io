@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz///readme_header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in restoration, classification, recognition, detection and compression.
@@ -9,6 +11,24 @@ I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My re
 - <https://github.com/landiaokafeiyan>
 - <lil61@mcmaster.ca>
 - <landiaokafeiyan@gmail.com>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
+
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+
+
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 
 ### Courses
 <ol>
