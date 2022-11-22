@@ -2,7 +2,8 @@
 
 I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in restoration, classification, recognition, detection and compression.
 
-
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 ### Find me
 
 - <https://github.com/landiaokafeiyan>
