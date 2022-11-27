@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in restoration, classification, recognition, detection and compression.
+I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in image compression for machines, probabilistic generative model(Super-Resolution,Image Denoising,Image Dehazing), unsupervised learning, optimal transport.
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -35,7 +35,6 @@ I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My re
 <li>ECE 729: Resource Management and Performance Analysis inWireless Communication Networks  A+ </li>
 <li>ECE 712: Matrix Computations in Signal Processing A+</li>
 <li>STATS 743A: Foundations of Statistics A+ </li>
-<li>Comprehensive Exam Passed</li>
 <li>ECE 723: Information Theory and Coding  Audition </li>
 </ol>
 		  
