@@ -1,6 +1,4 @@
 
-[![Header](https://github.com/landiaokafeiyan/landiaokafeiyan.github.io/blob/main/IMG_2564.jpg "Header")](https://some-url.dev/)
-
 ## Hi there 👋
 
 I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in image compression for machines, probabilistic generative models (Super-Resolution,Image Denoising,Image Dehazing), unsupervised learning, optimal transport.
