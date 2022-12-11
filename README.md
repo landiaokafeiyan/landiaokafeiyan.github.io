@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in image compression for machines, probabilistic generative model(Super-Resolution,Image Denoising,Image Dehazing), unsupervised learning, optimal transport.
+I’m a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image processing based on deep learning, especially in image compression for machines, probabilistic generative models (Super-Resolution,Image Denoising,Image Dehazing), unsupervised learning, optimal transport.
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
