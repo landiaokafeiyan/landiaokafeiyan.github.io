@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Content"
+title : "Lillian Li"
 title_separator          : "-"
-name                     : &name "Liangyan Li"
-description              : &description "personal description"
-url                      : https://landiaokafeiyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name : &name "Lillian (Liangyan) Li"
+description : &description "Reliable AI agents, structure-grounded reasoning, computer vision, and efficient machine learning."
+url : "https://landiaokafeiyan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "landiaokafeiyan/landiaokafeiyan.github.io/"
+repository : "landiaokafeiyan/landiaokafeiyan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "landiaokafeiyan/landiaokafeiyan.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Liangyan Li"
-  pronouns         : -"she/her"  
-  bio              : "I'm a Ph.D. candidate at McMaster University supervised by Dr. Jun Chen. My research direction aims at video and image compression."
-  location         : "Hamilton"
-  employer         : "Mcmaster University"
+  name : "Lillian (Liangyan) Li"
+  pronouns : "she/her"
+  bio : "Ph.D. in Electrical & Computer Engineering. Reliable AI agents, reasoning, and computer vision."
+  location : "Toronto, Ontario, Canada"
+  employer : 
   uri              : # URL
-  email            : # "" 
+  email : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter : 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -129,7 +129,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name : "Lillian (Liangyan) Li"
   links: # An array of links to social media profiles
 
 
@@ -169,6 +169,23 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/markdown.md
+  - _pages/archive-layout-with-content.md
+  - _pages/non-menu-page.md
+  - _pages/terms.md
+  - _pages/talkmap.html
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - _pages/talks.html
+  - _pages/portfolio.html
+  - _pages/year-archive.html
+  - _pages/page-archive.html
+  - _pages/collection-archive.html
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _data/comments
 keep_files:
   - .git
   - .svn
@@ -279,7 +296,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

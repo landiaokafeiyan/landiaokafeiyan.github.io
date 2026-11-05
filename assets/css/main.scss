@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Personal styling; retains Academic Pages layout and components. */
+body { color: #263b34; background: #fcfcf8; }
+a { color: #38634f; } a:hover { color: #8b663d; }
+.masthead { background: #f2f5ee; border-bottom: 1px solid #dbe2d7; }
+.page__title { color: #244735; letter-spacing: -.02em; }
+.author__avatar img { border-radius: 12px; }
+.profile-kicker { font-size: .72em; letter-spacing: .16em; color: #64775d; margin-bottom: .8em; }
+.profile-lead { font-size: 1.16em; line-height: 1.75; }
+.research-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5em; }
+.research-grid > div { border-top: 1px solid #dbe2d7; padding-top: .8em; }
+.research-grid h3 { margin-top: .5em; }
+.entry { border-bottom: 1px solid #dbe2d7; padding: 1.2em 0; }
+.entry h3 { margin-top: 0; }.authors { color: #617065; font-size: .9em; }
+.links { display: flex; flex-wrap: wrap; gap: .6em 1em; margin: .8em 0; }
+.tags { display: flex; flex-wrap: wrap; gap: .5em; }.tag { font-size: .8em; padding: .25em .7em; border: 1px solid #dbe2d7; border-radius: 20px; }
+.agenda { background: #eef3e9; padding: 1.2em; margin: 1.5em 0; border-radius: 6px; }
+.course-list { padding-left: 0; list-style: none; }.course-list li { padding: .5em 0; border-bottom: 1px solid #e2e6dc; }.course-code { display: inline-block; width: 140px; font-size: .85em; font-weight: 600; }
+.btn--primary { background: #38634f; }.page__footer { background: #f2f5ee; }
+@media (max-width: 700px) { .research-grid { grid-template-columns: 1fr; }.course-code { display:block; } }

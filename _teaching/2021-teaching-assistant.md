@@ -1,0 +1,11 @@
+---
+title: "Teaching Assistant (Group A)"
+collection: teaching
+permalink: /teaching/mcmaster-teaching-assistant/
+date: 2021-09-01
+venue: "McMaster University, Department of Electrical and Computer Engineering"
+type: "Undergraduate teaching"
+location: "Hamilton, Ontario, Canada"
+---
+
+<article class="entry"><div><h3>Teaching Assistant (Group A)</h3><p>McMaster University · Department of Electrical and Computer Engineering</p><p class="authors">Hamilton, Ontario, Canada · September 2021–April 2025</p><p>Supported undergraduate engineering education across machine learning, computational engineering, control systems, electromagnetics, and digital communications.</p><h4 class="course-heading">Courses supported</h4><ul class="course-list"><li><span class="course-code">COMPENG 4SL4</span><span>Fundamentals of Machine Learning</span></li><li><span class="course-code">COMPENG 3SK3</span><span>Computer-Aided Engineering</span></li><li><span class="course-code">ELECENG 3CL4</span><span>Introduction to Control Systems</span></li><li><span class="course-code">ELECENG 3FK4</span><span>Electromagnetics II</span></li><li><span class="course-code">ELECENG 3TR4</span><span>Communication Systems</span></li><li><span class="course-code">ELECENG 4TK4</span><span>Digital Communications Systems</span></li></ul></div></article>
